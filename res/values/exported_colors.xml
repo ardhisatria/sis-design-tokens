@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sys_surface_primary">#ffffffff</color>
+    <color name="sys_surface_secondary">#fff1f4f9</color>
+    <color name="sys_surface_tertiary">#ffe2e8f0</color>
+    <color name="sys_on_surface_primary">#ff202327</color>
+    <color name="sys_on_surface_secondary">#ff68778d</color>
+    <color name="sys_on_surface_tertiary">#ffa9b9cc</color>
+    <color name="sys_border_soft">#fff1f4f9</color>
+    <color name="sys_border_minimal">#ffe2e8f0</color>
+    <color name="sys_border_bold">#ffcbd5e0</color>
+
+    <color name="brand_primary">#ff001767</color>
+    <color name="brand_primary_surface">#ffe1e9fa</color>
+    <color name="brand_primary_border">#ff8fabef</color>
+    <color name="brand_on_primary">#ffffffff</color>
+    <color name="brand_on_primary_surface">#ff000d4a</color>
+    <!-- 
+        primary opacity 6% 
+    -->
+    <color name="brand_primary_subtle_6">#0f001666</color>
+
+    <color name="sematic_danger">#ffff463d</color>
+    <color name="sematic_danger_border">#ffffc8b1</color>
+    <color name="sematic_danger_surface">#fffff2eb</color>
+    <color name="sematic_on_danger_surface">#ffb71e31</color>
+    <color name="sematic_info">#ff2f80ed</color>
+    <color name="sematic_info_border">#ffacd9fd</color>
+    <color name="sematic_info_surface">#ffe9f5fe</color>
+    <color name="sematic_on_info_surface">#ff1749aa</color>
+    <color name="sematic_success">#ff14b156</color>
+    <color name="sematic_success_border">#ff9ff7aa</color>
+    <color name="sematic_success_surface">#ffe6fce6</color>
+    <color name="sematic_on_success_surface">#ff0a7f52</color>
+    <color name="sematic_warning">#fff2aa0d</color>
+    <color name="sematic_warning_border">#fffde89d</color>
+    <color name="sematic_warning_surface">#fffef9e6</color>
+    <color name="sematic_on_warning_surface">#ffae6e06</color>
+
+    <color name="neutral_50">#ffffffff</color>
+    <!-- 
+        E9EDF5 
+    -->
+    <color name="neutral_100">#fff1f4f9</color>
+    <!-- 
+        D5DBE5 
+    -->
+    <color name="neutral_200">#ffe2e8f0</color>
+    <!-- 
+        BCC2CE 
+    -->
+    <color name="neutral_300">#ffcbd5e0</color>
+    <!-- 
+        A1A9B8 
+    -->
+    <color name="neutral_400">#ffa9b9cc</color>
+    <!-- 
+        868FA0 
+    -->
+    <color name="neutral_500">#ff8496ae</color>
+    <!-- 
+        687182 
+    -->
+    <color name="neutral_600">#ff68778d</color>
+    <!-- 
+        5A6376 
+    -->
+    <color name="neutral_700">#ff4a5568</color>
+    <!-- 
+        464F60 
+    -->
+    <color name="neutral_800">#ff323a43</color>
+    <!-- 
+        333B4A 
+    -->
+    <color name="neutral_900">#ff202327</color>
+
+    <!-- 
+        E1E9FA 
+    -->
+    <color name="navy_50">#ffe1e9fa</color>
+    <!-- 
+        C5D5F7 
+    -->
+    <color name="navy_100">#ffc5d5f7</color>
+    <!-- 
+        8FABEF 
+    -->
+    <color name="navy_200">#ff8fabef</color>
+    <!-- 
+        5375D1 
+    -->
+    <color name="navy_300">#ff5375d1</color>
+    <!-- 
+        2847A3 
+    -->
+    <color name="navy_400">#ff2847a3</color>
+    <!-- 
+        001667 
+    -->
+    <color name="navy_500">#ff001767</color>
+    <!-- 
+        001158 
+    -->
+    <color name="navy_600">#ff001158</color>
+    <!-- 
+        000D4A 
+    -->
+    <color name="navy_700">#ff000d4a</color>
+    <!-- 
+        00093B 
+    -->
+    <color name="navy_800">#ff00093b</color>
+    <!-- 
+        000631 
+    -->
+    <color name="navy_900">#ff000631</color>
+
+    <!-- 
+        E7FFF4 
+    -->
+    <color name="tosca_50">#ffe7fff4</color>
+    <!-- 
+        CEFAE5 
+    -->
+    <color name="tosca_100">#ffcefae5</color>
+    <!-- 
+        9FF5D4 
+    -->
+    <color name="tosca_200">#ff9ff5d4</color>
+    <!-- 
+        6BE3C0 
+    -->
+    <color name="tosca_300">#ff6be3c0</color>
+    <!-- 
+        44C8AD 
+    -->
+    <color name="tosca_400">#ff44c8ad</color>
+    <!-- 
+        14A494 
+    -->
+    <color name="tosca_500">#ff14a494</color>
+    <!-- 
+        0E8D8A 
+    -->
+    <color name="tosca_600">#ff0e8d8a</color>
+    <!-- 
+        0A6E76 
+    -->
+    <color name="tosca_700">#ff0a6e76</color>
+    <!-- 
+        06505F 
+    -->
+    <color name="tosca_800">#ff06505f</color>
+    <!-- 
+        033B4E 
+    -->
+    <color name="tosca_900">#ff033b4e</color>
+
+    <!-- 
+        FFF2EB 
+    -->
+    <color name="red_50">#fffff2eb</color>
+    <!-- 
+        FFE7D8 
+    -->
+    <color name="red_100">#ffffe7d8</color>
+    <!-- 
+        FFC8B1 
+    -->
+    <color name="red_200">#ffffc8b1</color>
+    <!-- 
+        FFA38A 
+    -->
+    <color name="red_300">#ffffa38a</color>
+    <!-- 
+        FF806D 
+    -->
+    <color name="red_400">#ffff806d</color>
+    <!-- 
+        FF463D 
+    -->
+    <color name="red_500">#ffff463d</color>
+    <!-- 
+        DB2C33 
+    -->
+    <color name="red_600">#ffdb2c33</color>
+    <!-- 
+        B71E31 
+    -->
+    <color name="red_700">#ffb71e31</color>
+    <!-- 
+        93132D 
+    -->
+    <color name="red_800">#ff93132d</color>
+    <!-- 
+        7A0B2B 
+    -->
+    <color name="red_900">#ff7a0b2b</color>
+
+    <!-- 
+        E9F5FE 
+    -->
+    <color name="blue_50">#ffe9f5fe</color>
+    <!-- 
+        D5EDFE 
+    -->
+    <color name="blue_100">#ffd5edfe</color>
+    <!-- 
+        ACD9FD 
+    -->
+    <color name="blue_200">#ffacd9fd</color>
+    <!-- 
+        81BFF9 
+    -->
+    <color name="blue_300">#ff81bff9</color>
+    <!-- 
+        61A6F4 
+    -->
+    <color name="blue_400">#ff61a6f4</color>
+    <!-- 
+        2F80ED 
+    -->
+    <color name="blue_500">#ff2f80ed</color>
+    <!-- 
+        2263CB 
+    -->
+    <color name="blue_600">#ff2263cb</color>
+    <!-- 
+        1749AA 
+    -->
+    <color name="blue_700">#ff1749aa</color>
+    <!-- 
+        0E3389 
+    -->
+    <color name="blue_800">#ff0e3389</color>
+    <!-- 
+        092371 
+    -->
+    <color name="blue_900">#ff092371</color>
+
+    <!-- 
+        E6FCE6 
+    -->
+    <color name="green_50">#ffe6fce6</color>
+    <!-- 
+        CEFBCF 
+    -->
+    <color name="green_100">#ffcefbcf</color>
+    <!-- 
+        9FF7AA 
+    -->
+    <color name="green_200">#ff9ff7aa</color>
+    <!-- 
+        6CE787 
+    -->
+    <color name="green_300">#ff6ce787</color>
+    <!-- 
+        45D072 
+    -->
+    <color name="green_400">#ff45d072</color>
+    <!-- 
+        14B156 
+    -->
+    <color name="green_500">#ff14b156</color>
+    <!-- 
+        0E9856 
+    -->
+    <color name="green_600">#ff0e9856</color>
+    <!-- 
+        0A7F52 
+    -->
+    <color name="green_700">#ff0a7f52</color>
+    <!-- 
+        06664B 
+    -->
+    <color name="green_800">#ff06664b</color>
+    <!-- 
+        035446 
+    -->
+    <color name="green_900">#ff035446</color>
+
+    <!-- 
+        FEF9E6 
+    -->
+    <color name="yellow_50">#fffef9e6</color>
+    <!-- 
+        FEF5CE 
+    -->
+    <color name="yellow_100">#fffef5ce</color>
+    <!-- 
+        FDE89D 
+    -->
+    <color name="yellow_200">#fffde89d</color>
+    <!-- 
+        FBD76C 
+    -->
+    <color name="yellow_300">#fffbd76c</color>
+    <!-- 
+        F7C547 
+    -->
+    <color name="yellow_400">#fff7c547</color>
+    <!-- 
+        F2AA0D 
+    -->
+    <color name="yellow_500">#fff2aa0d</color>
+    <!-- 
+        D08B09 
+    -->
+    <color name="yellow_600">#ffd08b09</color>
+    <!-- 
+        AE6E06 
+    -->
+    <color name="yellow_700">#ffae6e06</color>
+    <!-- 
+        8C5404 
+    -->
+    <color name="yellow_800">#ff8c5404</color>
+    <!-- 
+        744102 
+    -->
+    <color name="yellow_900">#ff744102</color>
+
+    <!-- 
+        FFF7EA 
+    -->
+    <color name="orange_50">#fffff7ea</color>
+    <!-- 
+        FEEED4 
+    -->
+    <color name="orange_100">#fffeeed4</color>
+    <!-- 
+        FDD9AB 
+    -->
+    <color name="orange_200">#fffdd9ab</color>
+    <!-- 
+        FABD80 
+    -->
+    <color name="orange_300">#fffabd80</color>
+    <!-- 
+        F5A160 
+    -->
+    <color name="orange_400">#fff5a160</color>
+    <!-- 
+        EF762D 
+    -->
+    <color name="orange_500">#ffef762d</color>
+    <!-- 
+        CD5720 
+    -->
+    <color name="orange_600">#ffcd5720</color>
+    <!-- 
+        AC3C16 
+    -->
+    <color name="orange_700">#ffac3c16</color>
+    <!-- 
+        8A260E 
+    -->
+    <color name="orange_800">#ff8a260e</color>
+    <!-- 
+        721608 
+    -->
+    <color name="orange_900">#ff721608</color>
+
+
+</resources>

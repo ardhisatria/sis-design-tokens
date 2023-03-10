@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="DisplayXlarge">
+        <item name="android:textSize">96sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="DisplayLarge">
+        <item name="android:textSize">52sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="DisplayMedium">
+        <item name="android:textSize">44sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="DisplaySmall">
+        <item name="android:textSize">36sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingXlarge">
+        <item name="android:textSize">40sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingLarge">
+        <item name="android:textSize">36sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingMedium">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingSmall">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingXsmall">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="HeadingTiny">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">1.25</item>
+        <item name="android:fontFamily">@font/inter_semi_bold</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelXlarge">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelSmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelXsmall">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="LabelTiny">
+        <item name="android:textSize">8sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodyXlarge">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodyLarge">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodyMedium">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodySmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodyXsmall">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BodyTiny">
+        <item name="android:textSize">8sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
+  
+
